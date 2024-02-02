@@ -1,0 +1,48 @@
+LInux
+===================
+1.what is difference between bin and sbin
+
+bin directory files can accessble by any user
+sbin directory files can be accessble by root user
+
+
+types of users in linux
+1. super users
+2.Normal users
+3.system users
+like jenkins, ansible
+
+============================================
+etc
+===
+contains config files
+accessble by root users
+=========================================
+opt
+empty directory
+
+=======================
+dev
+devices
+==============
+lib
+all the libraries can be stored
+======================
+var
+all the logs can be stored and system variable
+==============================
+temp
+all temparory files
+==============================
+proc
+cpuinfo
+
+=======================================================
+Linux commands
+
+ls --
+mkdir
+mkdir  -p devops/linux/git/maven/
+-p means parent directory
+mkdir -m 700 devops
+

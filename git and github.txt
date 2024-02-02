@@ -1,0 +1,29 @@
+GitHub
+Git Lab 
+Bitbucket
+SVN
+CVS 
+TFS
+Perforce
+============================
+Create an org
+create repo
+ STEPS TO CHANGE Public repo to private repo 
+settings--- dangerzone-- visibility change public/private
+===========================================
+IDE
+Integrated Development environemtns
+Eclipse
+vistudio
+=================================
+logical areas in git
+working area    staging area   Local repo
+
+git status
+
+will untracked and tracked files
+git add filename
+git add .
+git add *
+git add *.java
+commands will send git file from working directoy to staging area
